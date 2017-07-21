@@ -5,7 +5,11 @@
 Please read [CONTRIBUTING.md](./CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## The List
-
+###### Tips
+     Links open on the same page.
+     Use CTRL + Left Click to open in a new tab.
+     Clicking the image for a game will lead to a gameplay or trailer video.
+     
 * **[2017 VR](http://store.steampowered.com/app/575600/2017_VR/)**  $19.99
 
      [![2017 VR](https://img.youtube.com/vi/fAi-Ut-RI6A/0.jpg)](https://www.youtube.com/watch?v=fAi-Ut-RI6A)
