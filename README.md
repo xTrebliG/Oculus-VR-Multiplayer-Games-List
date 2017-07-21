@@ -1,5 +1,11 @@
 # Oculus-VR-Multiplayer-Games-List
 
+## Contributing
+
+Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+
+## The List
+
 * **[2017 VR](http://store.steampowered.com/app/575600/2017_VR/)**  $19.99
 
      [![2017 VR](https://img.youtube.com/vi/fAi-Ut-RI6A/0.jpg)](https://www.youtube.com/watch?v=fAi-Ut-RI6A)
